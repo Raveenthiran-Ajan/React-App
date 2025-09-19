@@ -6,4 +6,4 @@ hello i Ajan now i do a modification on text1.txt
 
 
 
-This line is added to check the Git conflict.
+ This line is added to check the Git conflict
