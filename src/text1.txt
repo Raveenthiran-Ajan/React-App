@@ -3,3 +3,7 @@ This is Text1 file
 Text1
 I add line 4 conform the collaboration is working correctly
 hello i Ajan now i do a modification on text1.txt
+
+
+
+This line is added to check the Git conflict.
